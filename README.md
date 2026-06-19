@@ -3,6 +3,8 @@
 ## 📸 CHATBOT COM ESP32
 ![Menu](chat1.png)
 
+![Menu](chat2.png)
+
 ## 📸 Circuito e Montagem
 ![Esquema do Projeto](chat3.png)
 
