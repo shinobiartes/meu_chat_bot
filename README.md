@@ -15,7 +15,8 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 
 ## 📺 Assista ao Vídeo do Projeto
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nPQnve32v9o)
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)]([https://youtu.be/nPQnve32v9o](https://youtu.be/A4O52m6auhk))
+![Menu](chat4.png)
 
 ---
 
